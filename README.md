@@ -1,5 +1,7 @@
 [![agency-site.png](https://i.postimg.cc/9Qhzf5dS/agency-site.png)](https://postimg.cc/tYB9rcmt)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d8b1ee8c-f00a-4387-a140-ad1f536cc7fe/deploy-status)](https://app.netlify.com/sites/maleo-agency-site/deploys)
+
 This is a Landing page site made in Javascript(React and Gatsby). <br />
 It is only focused on frontend
  
@@ -35,7 +37,7 @@ It is only focused on frontend
 
 ### Wakatime Week Stats
 
-[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shazyleshan&theme=dark&title_color=009933)](https://github.com/sharon-leshan/sharon-leshan)
+[![Leshan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shazyleshan&theme=dark&title_color=009933)](https://github.com/sharon-leshan/sharon-leshan)
 
 [![wakatime](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a/project/a43ec5ec-5ec4-4b3f-b502-1eab05690416.svg)](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a/project/a43ec5ec-5ec4-4b3f-b502-1eab05690416)
 
