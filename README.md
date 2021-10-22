@@ -35,6 +35,8 @@ It is only focused on frontend
 
 ### Wakatime Week Stats
 
+[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shazyleshan&theme=dark&title_color=009933)](https://github.com/sharon-leshan/sharon-leshan)
+
 [![wakatime](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a/project/a43ec5ec-5ec4-4b3f-b502-1eab05690416.svg)](https://wakatime.com/badge/user/f6d97325-e131-4c48-9dbc-46089cd0f41a/project/a43ec5ec-5ec4-4b3f-b502-1eab05690416)
 
 ### Profile Visit
