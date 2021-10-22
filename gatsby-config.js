@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Agency Site`,
     description: `Agency Site by gatsby.`,
     author: `@shazyleshan`,
-    siteUrl: ``,
+    siteUrl: `https://shazy-agency-site.netlify.app/`,
     image: `/agency-site.png`,
     twitterUsername: `@shazyleshan`
   },
@@ -13,7 +13,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: ``,
+        trackingId: `G-DWNG3BK8PF`,
       }
     },
     {
@@ -21,7 +21,7 @@ module.exports = {
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
-          "", // Google Analytics / GA
+          "G-DWNG3BK8PF", // Google Analytics / GA
         ],
         // This object is used for configuration specific to this plugin
         pluginConfig: {
