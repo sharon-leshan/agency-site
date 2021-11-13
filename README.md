@@ -1,6 +1,6 @@
-[![agency-site.png](https://i.postimg.cc/9Qhzf5dS/agency-site.png)](https://postimg.cc/tYB9rcmt)
+[![short-video.png](https://i.postimg.cc/XJ1mLWct/short-video.png)](https://postimg.cc/5Yvs9Zrm)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d8b1ee8c-f00a-4387-a140-ad1f536cc7fe/deploy-status)](https://app.netlify.com/sites/maleo-agency-site/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c8d1b2a2-7e91-4c0f-b484-235918e3054d/deploy-status)](https://app.netlify.com/sites/shazy-agency-site/deploys)
 
 This is a Landing page site made in Javascript(React and Gatsby). <br />
 It is only focused on frontend
